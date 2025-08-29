@@ -26,7 +26,7 @@ This project automates food and water dispensing for pets (e.g., cats 🐱, dogs
 
 ## 📂 Project Structure
 ```bash
-pet-feeder-iot/
+Pet_Care_System-IOT/
 │── esp32_code/          # ESP32 Arduino/PlatformIO code
 │── flutter_app/         # Flutter mobile app
 │── docs/                # Documentation, diagrams, schematics
