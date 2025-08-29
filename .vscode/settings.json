@@ -1,0 +1,7 @@
+{
+    "jdk.advanced.disable.nbjavac": false,
+    "terminal.integrated.fontSize": 14,
+    "cSpell.words": [
+        "allprojects"
+    ]
+}
